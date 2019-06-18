@@ -1,4 +1,4 @@
-namespace explosive
+namespace explosive.viewmodel
 {
   public class Model
   {
